@@ -57,7 +57,6 @@ ${mundur}
  • ${prefix}sticker
  • ${prefix}qc
  • ${prefix}xquote
- • ${prefix}stickerwm
  • ${prefix}smeme
  • ${prefix}toimg
  • ${prefix}tomp3
