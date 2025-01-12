@@ -2,7 +2,7 @@
     "ownerNumber": ["6282275576880"],
     "ownerName": "IG : irja_official",
     "instagram" : "https://instagram.com/irja_official",
-    "gcwa" : "https://chat.whatsapp.com/Ddd8uVERFdJJv3n5aARlib",
+    "gcwa" : "https://chat.whatsapp.com/LZd2a6NXlg4E2khlRasjdP",
     "botName": "© IRJA",
     "footer": "© IRJA",
     "sessionName": "session",
@@ -20,14 +20,14 @@
     "japriOnly": false, 
     "antiDelete": false,
     "autobio": false,
-    "anticall": true,
+    "anticall": false,
     "autorespond": false,
-    "autoblok212": true,
+    "autoblok212": false,
     "autoread": false,
     "gamewaktu": 90,
-    "limitCount": 25,
+    "limitCount": 100,
     "gcount": {
         "prem": 1000,
-        "user": 15
+        "user": 100
     }
 }
